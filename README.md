@@ -1,5 +1,5 @@
 # Thinkpad-E490-hackintosh
-
+```
   电脑型号            联想 ThinkPad E490 笔记本电脑
 
   处理器              英特尔 Core i5-8265U @ 1.60GHz 四核
@@ -12,9 +12,10 @@
   声卡                Conexant Synaptics Audio @ 英特尔 英特尔智音技术音频控制器
   网卡                瑞昱 RTL8168/8111/8112 Gigabit Ethernet Controller / 联想
 
-  Clover        Release v5.0 r5122
-  macos         10.15
-
-  cpu           ok
-  Graphics 620  ok
-  Audio         ok
+  Clover              Release v5.0 r5122
+  macos               10.15
+      
+  cpu                 ok
+  Graphics 620        ok
+  Audio               ok
+  ```
